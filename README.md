@@ -1,10 +1,10 @@
-# Android Project 1 - *Name of App Here*
+# Android Project 1 - *Wordle*
 
-Submitted by: **Your Name Here**
+Submitted by: **Affan Arif Khamse**
 
-**Name of your app** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html).
+**Wordle** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html).
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -28,10 +28,12 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 
+https://github.com/khamseaffan/AND102_Project_Wordle/assets/66311597/75c5044a-542d-4148-a3b1-19864c903dbf
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Implementaion of adapter for listView was good challenege, I was able to learn many things out of it.
 
 ## License
 
